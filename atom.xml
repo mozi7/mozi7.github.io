@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-05-08T13:54:03.002Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>阿伦的异想世界</title>
+    <link href="http://yoursite.com/2020/05/08/%E9%98%BF%E4%BC%A6%E7%9A%84%E5%BC%82%E6%83%B3%E4%B8%96%E7%95%8C/"/>
+    <id>http://yoursite.com/2020/05/08/%E9%98%BF%E4%BC%A6%E7%9A%84%E5%BC%82%E6%83%B3%E4%B8%96%E7%95%8C/</id>
+    <published>2020-05-08T13:54:02.000Z</published>
+    <updated>2020-05-08T13:54:03.002Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
